@@ -3,7 +3,7 @@
 <h3 align="center">Passionate Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parveen6010&label=Profile%20views&color=0e75b6&style=flat" alt="parveen6010" /> </p>
 
-- 🔭 I’m currently working on *E-logistic *
+- 🔭 I’m currently working As *Software Engineer*
 
 - 🌱 I’m currently learning *mern stack-AI-Android Development*
 
