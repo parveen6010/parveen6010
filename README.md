@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning *mern stack-AI-Android Development*
 
-- 👨‍💻 All of my projects are available at [[Parveen](https://github.com/parveen6010)]
+- 👨‍💻 All my projects are available at [[Github](https://github.com/parveen6010?tab=repositories)]
+
+- 👨‍💻 Linkedin Profile are available at [[Linkedin](https://www.linkedin.com/in/parveen-prajapati-arnav-370478202/)]
+
+- 👨‍💻 Leetcode Profile are available at [[Leetcode](https://leetcode.com/u/parveenprajapati/)]
 
 - 💬 Ask me about *js react node DSA CS-Fundamentals*
 
